@@ -1,10 +1,10 @@
 # Site settings
-title: Rappermonk's Dev Blog
+title: Ironhee's Dev Blog
 email: leechulhee95@gmail.com
 author: ChulHee Lee
-description: "Rappermonk's Dev Blog"
+description: "Ironhee's Dev Blog"
 baseurl: ""
-url: "http://rappermonk.github.io/"
+url: "http://ironhee.github.io/"
 google_analytics: "UA-48350213-1"
 animated: false
 show_related_posts: false

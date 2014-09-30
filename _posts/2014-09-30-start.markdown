@@ -1,0 +1,8 @@
+---
+layout: post
+title: Blog Start
+date: 2014-09-30 12:20:00
+summary: Rappermonk Blog Start
+categories:
+---
+개발 블로그 시작!

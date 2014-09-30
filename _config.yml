@@ -1,0 +1,21 @@
+# Site settings
+title: Rappermonk's Dev Blog
+email: leechulhee95@gmail.com
+author: ChulHee Lee
+description: "Rappermonk's Dev Blog"
+baseurl: ""
+url: "http://rappermonk.github.io/"
+google_analytics: "UA-48350213-1"
+animated: false
+show_related_posts: false
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+paginate: 8
+sass:
+  compressed: true
+
+
+#DISCUS
+comments: true

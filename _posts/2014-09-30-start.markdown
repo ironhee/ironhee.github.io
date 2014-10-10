@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Blog Start
+title: 개발블로그 시작!
 date: 2014-09-30 12:20:00
-summary: Rappermonk Blog Start
+summary: Ironhee의 개발블로그를 시작해요!
 categories:
 ---
-개발 블로그 시작!
+Ironhee의 개발블로그. 시작해요!

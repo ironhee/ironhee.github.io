@@ -36,8 +36,6 @@ categories: Ediket
         자바스크립트를 위한 독립적인 테스팅 spies, stubs 과 mocks을 제공한다.
         의존성이 없어, 다른 어떤 유닛 테스팅 프레임워크와도 잘 동작한다.
 
-번역이 힘들어서 안한게 아니에요...ㅜ
-
 이 자료들을 참고했어요
 -----------------------------
 1. [node 환경에서 require.js syntax로 정의된 요소들 사용하기](http://requirejs.org/docs/node.html)

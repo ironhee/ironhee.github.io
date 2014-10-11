@@ -12,9 +12,12 @@
   MIT License http://opensource.org/licenses/MIT
 
 */
+$font-pixyll: "Merriweather", "PT Serif", Georgia, "Times New Roman", serif;
+$font-nanum-gothic: "Merriweather", "PT Serif", Georgia, "Times New Roman", serif;
+$font-default: $font-pixyll;
 
 body {
-  font-family: "Merriweather", "PT Serif", Georgia, "Times New Roman", serif;
+  font-family: $font-default;
 }
 
 html, body {

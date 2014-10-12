@@ -43,10 +43,11 @@ categories: Backbone
 // 기존의 코드
 var MyView = function (model) {
     var $el = ...;
+    $el.addClass("some-class");
 
     var createHTML = function () {
-        var html = '<div class="some-class">' +
-            model.someValue + '</div>';
+        var html = '<span>' +
+            model.someValue + '</span>';
         return html;
     }
 

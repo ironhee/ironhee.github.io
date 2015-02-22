@@ -7,7 +7,6 @@ categories: Ediket
 ---
 
 에디켓 사이트를 개편하면서 프론트엔드 테스트 케이스가 없어서 생기는 문제점들이 많아졌어요.
-
 개발할때는
 ------------
 1. 소스는 복잡해지는데 테스트 케이스가 없어서 배포할 때 마다 직접 테스트를 해야해요.
@@ -43,4 +42,3 @@ categories: Ediket
 3. [Web UI Testing automation](http://www.slideshare.net/CreamTec/ui-testing-automation-17208623)
 4. [Automated Web Testing using JavaScript by Simon Guest](http://www.slideshare.net/simonguest/automated-web-testing-using-javascript)
 5. [Effective Unit Testing With Amd](http://bocoup.com/weblog/effective-unit-testing-with-amd/)
-

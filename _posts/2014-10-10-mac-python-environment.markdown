@@ -5,6 +5,7 @@ date: 2014-10-10 23:10:40
 summary: HomeBrew 를 써서 Mac에 Python2.7 개발환경을 만들어보아요
 categories: Mac Python Environment
 ---
+
 1. 기존 Mac에 내장된 Python2.7 버전을 제거해요.
 
 {% highlight bash %}

@@ -26,4 +26,6 @@ Gulp 와 main-bower-files 를 이용해서 모든 bower dependency
 
 {% gist /ironhee/97a16cc016e7e3469ade %}
 
+[![asciicast](https://asciinema.org/a/083janiohu7za8dpoqr34y7aw.png)](https://asciinema.org/a/083janiohu7za8dpoqr34y7aw)
+
 정말좋죠?

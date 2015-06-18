@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Webpack - 모듈화와 속도를 모두 잡는 방법.
-date: 2015-05-25 18:05:09
+date: 2015-06-17 18:05:09
 summary: Browserify 빌드가 느리다고요? 그렇다면 Webpack을 씁시다.
 categories: webpack
 ---
@@ -49,7 +49,7 @@ npm (node.js 환경) 과 bower (browser 환경) 두 환경에서 공용으로
 - 빌드속도는 초기빌드 후에 0.1~3초 밖에 걸리지 않아요.
 - 물론 모든 코드는 node module style 로 모듈화가 되어있구요.
 
-안 쓸 이유가 있나요? Webpack은 사랑입니다 :D 
+안 쓸 이유가 있나요? Webpack은 사랑입니다 :D
 
 예시
 ------

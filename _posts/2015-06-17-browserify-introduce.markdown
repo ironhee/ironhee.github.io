@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Browserify 소개
-date: 2015-05-25 18:05:09
+date: 2015-06-17 18:05:09
 summary: 프론트엔드 코드를 깔끔하게 정리해보아요.
 categories: browserify
 ---

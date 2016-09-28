@@ -1,9 +1,0 @@
----
-layout: post
-title: 개발블로그 시작!
-date: 2014-09-30 12:20:00
-summary: Ironhee의 개발블로그를 시작해요!
-categories:
----
-
-Ironhee의 개발블로그. 시작해요!

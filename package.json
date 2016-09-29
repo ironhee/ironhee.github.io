@@ -9,9 +9,9 @@
   },
   "scripts": {
     "test": "resume test resume.json",
-    "export": "resume export index.html --theme short",
+    "export": "resume export index.html --theme stackoverflow",
     "add-html-to-git": "git add index.html",
-    "serve": "resume serve --theme short --port 8080"
+    "serve": "resume serve --theme stackoverflow --port 8080"
   },
   "pre-commit": [
     "test",

@@ -1,93 +1,165 @@
 {
   "basics": {
-    "name": "John Doe",
+    "name": "Ironhee",
     "label": "Programmer",
     "picture": "",
-    "email": "john@gmail.com",
-    "phone": "(912) 555-4321",
-    "website": "http://johndoe.com",
-    "summary": "A summary of John Doe...",
-    "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
-    },
+    "email": "leechulhee95@gmail.com",
+    "phone": "",
+    "website": "https://ironhee.com",
+    "summary": "ChulHee Lee, a programmer ediket.\nLove open source, clean code and new technologies.",
     "profiles": [{
-      "network": "Twitter",
-      "username": "john",
-      "url": "http://twitter.com/john"
+      "network": "Github",
+      "username": "ironhee",
+      "url": "https://www.github.com/ironhee"
+    }, {
+      "network": "Linkedin",
+      "username": "ironhee",
+      "url": "https://www.linkedin.com/in/ironhee"
+    }, {
+      "network": "Facebook",
+      "username": "ironhee95",
+      "url": "https://www.facebook.com/ironhee95"
     }]
   },
   "work": [{
-    "company": "Company",
-    "position": "President",
-    "website": "http://company.com",
-    "startDate": "2013-01-01",
-    "endDate": "2014-01-01",
-    "summary": "Description...",
+    "company": "Ediket",
+    "position": "Programmer",
+    "website": "https://ediket.com/",
+    "startDate": "2014-04",
+    "endDate": "",
+    "summary": "An on-demand platform for English proofreading and copy-editing services, perfect for academic papers, business e-mails, or cover letters.",
     "highlights": [
-      "Started the company"
+      "Introduce front-end packaging system",
+      "Introduce TDD",
+      "Implement web-based trackchange editor - edikit",
+      "Handle OfficeOpenXML with node.js",
+      "Implement rethinkdb functional toolkit library - nothinkdb",
+      "Build deployment stack with AWS Elastic Beanstalk & Docker",
+      "Introduce GraphQL & Relay"
     ]
-  }],
-  "volunteer": [{
-    "organization": "Organization",
-    "position": "Volunteer",
-    "website": "http://organization.com/",
-    "startDate": "2012-01-01",
-    "endDate": "2013-01-01",
-    "summary": "Description...",
+  }, {
+    "company": "Quicket",
+    "position": "Programmer",
+    "website": "http://bunjang.kr/",
+    "startDate": "2013-08",
+    "endDate": "2014-03",
+    "summary": "Bunjang is the biggest online marketplace for secondhand stuff in south korea.",
     "highlights": [
-      "Awarded 'Volunteer of the Month'"
+      "Build administration system"
     ]
   }],
   "education": [{
-    "institution": "University",
-    "area": "Software Development",
-    "studyType": "Bachelor",
-    "startDate": "2011-01-01",
-    "endDate": "2013-01-01",
-    "gpa": "4.0",
+    "institution": "High School",
+    "area": "Information and Network Technology",
+    "startDate": "2011-03-01",
+    "endDate": "2014-03-01",
     "courses": [
-      "DB1101 - Basic SQL"
+      "Network",
+      "Operating System",
+      "Programming Languages",
+      "Security",
+      "Algorithm"
     ]
-  }],
-  "awards": [{
-    "title": "Award",
-    "date": "2014-11-01",
-    "awarder": "Company",
-    "summary": "There is no spoon."
-  }],
-  "publications": [{
-    "name": "Publication",
-    "publisher": "Company",
-    "releaseDate": "2014-10-01",
-    "website": "http://publication.com",
-    "summary": "Description..."
   }],
   "skills": [{
-    "name": "Web Development",
-    "level": "Master",
+    "name": "Programming Languages",
     "keywords": [
+      "Node.js",
+      "Python",
+      "Bash",
+      "C"
+    ]
+  }, {
+    "name": "Web Front-end",
+    "keywords": [
+      "React",
+      "Redux",
+      "Relay",
+      "Backbone",
+      "Webpack",
+      "DOM",
+      "SPA"
+    ]
+  }, {
+    "name": "Web Back-end",
+    "keywords": [
+      "Express",
+      "Sequelize",
+      "PM2",
+      "Flask",
+      "Django",
+      "SQLAlchemy",
+      "Pubnub",
+      "Socket.io"
+    ]
+  }, {
+    "name": "HTTP API Design",
+    "keywords": [
+      "RESTful",
+      "JsonAPI",
+      "GraphQL"
+    ]
+  }, {
+    "name": "Deployment",
+    "keywords": [
+      "AWS",
+      "Docker",
+      "Elastic Beanstalk",
+      "CloudFront",
+      "nginx"
+    ]
+  }, {
+    "name": "Databases",
+    "keywords": [
+      "Rethinkdb",
+      "MySQL",
+      "PostgreSQL",
+      "Redis"
+    ]
+  }, {
+    "name": "Testing",
+    "keywords": [
+      "TravisCI",
+      "CircleCI",
+      "Nightwatch",
+      "Karma"
+    ]
+  }, {
+    "name": "Data Processing",
+    "keywords": [
+      "OfficeOpenXML",
       "HTML",
-      "CSS",
-      "Javascript"
+      "XML",
+      "CSV"
     ]
-  }],
-  "languages": [{
-    "name": "English",
-    "level": "Native speaker"
-  }],
-  "interests": [{
-    "name": "Wildlife",
+  }, {
+    "name": "SEO",
     "keywords": [
-      "Ferrets",
-      "Unicorns"
+      "Open Graph",
+      "Microdata"
     ]
   }],
-  "references": [{
-    "name": "Jane Doe",
-    "reference": "Reference..."
-  }]
+  "languages": [],
+  "interests": [{
+    "name": "Game",
+    "keywords": [
+      "Overwatch",
+      "Indie Games",
+      "Dungeon Crawl Stone Soup"
+    ]
+  }, {
+    "name": "Book",
+    "keywords": [
+      "Sapiens: A Brief History of Humankind",
+      "The Hitchhiker's Guide to the Galaxy"
+    ]
+  }, {
+    "name": "Beer",
+    "keywords": [
+      "Craft beers",
+      "Guiness",
+      "Stone IPA"
+    ]
+  }],
+  "references": []
 }

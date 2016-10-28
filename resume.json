@@ -25,7 +25,7 @@
     "company": "Ediket",
     "position": "Programmer",
     "website": "https://ediket.com/",
-    "startDate": "2014-04",
+    "startDate": "2014-04-14",
     "endDate": "2016-10-21",
     "summary": "An on-demand platform for English proofreading and copy-editing services, perfect for academic papers, business e-mails, or cover letters.",
     "highlights": [
@@ -41,8 +41,8 @@
     "company": "Quicket",
     "position": "Programmer",
     "website": "http://bunjang.kr/",
-    "startDate": "2013-08",
-    "endDate": "2014-03",
+    "startDate": "2013-08-01",
+    "endDate": "2014-03-01",
     "summary": "Bunjang is the biggest online marketplace for secondhand stuff in south korea.",
     "highlights": [
       "Build administration system"

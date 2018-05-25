@@ -22,8 +22,14 @@
     }]
   },
   "work": [{
+    "company": "Devsisters",
+    "position": "Web Programmer",
+    "website": "http://www.devsisters.com/",
+    "startDate": "2016-12-12",
+    "summary": "Devsisters is a Korean mobile game studio, well known for its big success of Cookie Run for Kakao and Line Cookie Run in Korea, Taiwan and Thailand.",
+  }, {
     "company": "Ediket",
-    "position": "Programmer",
+    "position": "Web Programmer",
     "website": "https://ediket.com/",
     "startDate": "2014-04-14",
     "endDate": "2016-10-21",
@@ -39,7 +45,7 @@
     ]
   }, {
     "company": "Quicket",
-    "position": "Programmer",
+    "position": "Web Programmer",
     "website": "http://bunjang.kr/",
     "startDate": "2013-08-01",
     "endDate": "2014-03-01",
@@ -64,10 +70,8 @@
   "skills": [{
     "name": "Programming Languages",
     "keywords": [
-      "Node.js",
-      "Python",
-      "Bash",
-      "C"
+      "TypeScript",
+      "Javascript"
     ]
   }, {
     "name": "Web Front-end",
@@ -75,7 +79,6 @@
       "React",
       "Redux",
       "Relay",
-      "Backbone",
       "Webpack",
       "DOM",
       "SPA"
@@ -83,14 +86,11 @@
   }, {
     "name": "Web Back-end",
     "keywords": [
+      "Node.js",
       "Express",
+      "Knex",
       "Sequelize",
-      "PM2",
-      "Flask",
-      "Django",
-      "SQLAlchemy",
-      "Pubnub",
-      "Socket.io"
+      "GraphQL"
     ]
   }, {
     "name": "HTTP API Design",

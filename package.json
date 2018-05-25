@@ -4,6 +4,7 @@
   "version": "1.0.0",
   "description": "ironhee",
   "dependencies": {
+    "jsonresume-theme-stackoverflow": "^1.4.0",
     "pre-commit": "^1.1.3",
     "resume-cli": "^0.4.14"
   },

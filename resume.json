@@ -6,7 +6,7 @@
     "email": "leechulhee95@gmail.com",
     "phone": "",
     "website": "https://ironhee.com",
-    "summary": "ChulHee Lee, a programmer.\nLove open source, clean code, abstraction and new technologies.",
+    "summary": "Developer. Interested in open source project. Love simple architecture.",
     "profiles": [{
       "network": "Github",
       "username": "ironhee",
@@ -26,7 +26,7 @@
     "position": "Web Programmer",
     "website": "http://www.devsisters.com/",
     "startDate": "2016-12-12",
-    "summary": "Devsisters is a Korean mobile game studio, well known for its big success of Cookie Run for Kakao and Line Cookie Run in Korea, Taiwan and Thailand.",
+    "summary": "Devsisters is a Korean mobile game studio, well known for its big success of Cookie Run for Kakao and Line Cookie Run in Korea, Taiwan and Thailand."
   }, {
     "company": "Ediket",
     "position": "Web Programmer",
@@ -77,6 +77,7 @@
     "name": "Web Front-end",
     "keywords": [
       "React",
+      "Vue",
       "Redux",
       "Relay",
       "Webpack",
@@ -90,6 +91,7 @@
       "Express",
       "Knex",
       "Sequelize",
+      "Objection.js",
       "GraphQL"
     ]
   }, {
@@ -105,6 +107,8 @@
       "AWS",
       "Docker",
       "Elastic Beanstalk",
+      "GCP",
+      "Kubernetes",
       "CloudFront",
       "nginx"
     ]
@@ -112,9 +116,7 @@
     "name": "Databases",
     "keywords": [
       "Rethinkdb",
-      "MySQL",
-      "PostgreSQL",
-      "Redis"
+      "MySQL"
     ]
   }, {
     "name": "Testing",
@@ -122,6 +124,8 @@
       "TravisCI",
       "CircleCI",
       "Nightwatch",
+      "Mocha",
+      "Jest",
       "Karma"
     ]
   }, {
@@ -140,26 +144,6 @@
     ]
   }],
   "languages": [],
-  "interests": [{
-    "name": "Game",
-    "keywords": [
-      "Overwatch",
-      "Indie Games",
-      "Dungeon Crawl Stone Soup"
-    ]
-  }, {
-    "name": "Book",
-    "keywords": [
-      "Sapiens: A Brief History of Humankind",
-      "The Hitchhiker's Guide to the Galaxy"
-    ]
-  }, {
-    "name": "Beer",
-    "keywords": [
-      "Craft beers",
-      "Guiness",
-      "Stone IPA"
-    ]
-  }],
+  "interests": [],
   "references": []
 }

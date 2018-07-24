@@ -22,10 +22,17 @@
     }]
   },
   "work": [{
+    "company": "Viva Republica (Toss)",
+    "position": "UI Developer",
+    "website": "https://toss.im/",
+    "startDate": "2018-08-06",
+    "summary": "Toss completely transforms the way mobile financial services is conducted in Korea. With over 25 services such as payments, loan, investments, and credit score management, Toss aims at becoming a consumer financial services platform that covers all facets of its users'​ financial lives."
+  }, {
     "company": "Devsisters",
     "position": "Web Programmer",
     "website": "http://www.devsisters.com/",
     "startDate": "2016-12-12",
+    "endDate": "2018-07-25",
     "summary": "Devsisters is a Korean mobile game studio, well known for its big success of Cookie Run for Kakao and Line Cookie Run in Korea, Taiwan and Thailand."
   }, {
     "company": "Ediket",

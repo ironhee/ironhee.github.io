@@ -11,14 +11,15 @@
   },
   "scripts": {
     "test": "resume test resume.json",
-    "export": "resume export index.html --theme stackoverflow",
-    "add-html-to-git": "git add index.html",
+    "export": "rimraf build && mkdirp build && resume export build/index.html --theme stackoverflow",
     "serve": "resume serve --theme stackoverflow --port 8080"
   },
   "dependencies": {
     "@jamesives/github-pages-deploy-action": "^3.5.9",
     "jsonresume-theme-stackoverflow": "^1.4.0",
-    "resume-cli": "^1.2.8"
+    "mkdirp": "^1.0.4",
+    "resume-cli": "^1.2.8",
+    "rimraf": "^3.0.2"
   },
   "resolutions": {
     "html-to-text": "^5.1.1"

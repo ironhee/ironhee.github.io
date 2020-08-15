@@ -1,12 +1,13 @@
 {
   "private": true,
   "name": "ironhee.github.io",
+  "description": "Chulhee Lee (ironhee)",
+  "author": "ironhee",
   "version": "1.0.0",
-  "description": "ironhee",
-  "dependencies": {
-    "jsonresume-theme-stackoverflow": "^1.4.0",
-    "pre-commit": "^1.1.3",
-    "resume-cli": "^0.4.14"
+  "homepage": "https://ironhee.github.io/",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ironhee/ironhee.github.io.git"
   },
   "scripts": {
     "test": "resume test resume.json",
@@ -14,19 +15,12 @@
     "add-html-to-git": "git add index.html",
     "serve": "resume serve --theme stackoverflow --port 8080"
   },
-  "pre-commit": [
-    "test",
-    "export",
-    "add-html-to-git"
-  ],
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/ironhee/ironhee.github.io.git"
+  "dependencies": {
+    "@jamesives/github-pages-deploy-action": "^3.5.9",
+    "jsonresume-theme-stackoverflow": "^1.4.0",
+    "resume-cli": "^1.2.8"
   },
-  "author": "ironhee",
-  "license": "UNLICENSED",
-  "homepage": "https://ironhee.github.io/",
-  "devDependencies": {
-    "resume-cli": "^0.4.14"
+  "resolutions": {
+    "html-to-text": "^5.1.1"
   }
 }
